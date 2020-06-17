@@ -26,6 +26,7 @@ If for whatever reason you bootloop and you dont have twrp, just wait 60 seconds
 
 <div align="center">
 <strong> YOU DO NOT HAVE PERMISSION TO USE, MODIFY OR DISTRIBUTE THIS CODE IN ANY WAY
+</div>
 
 ## Using The Custom Option
  * CURRENTLY BROKEN
