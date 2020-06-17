@@ -9,6 +9,12 @@
       alt="_time_stamp_" />
 </div>
 
+<h2>
+  <div align="center">
+    <strong> YOU DO NOT HAVE PERMISSION TO USE, MODIFY OR DISTRIBUTE THIS CODE IN ANY WAY
+  </div>
+</h2>
+
 <div align="center">
   <strong>Font Changer allows the user to download over 200 fonts and apply them. If the user doesn't like any of the fonts or the font they want isn't in the list, then they can put the ttf files in a custom folder in internal storage! After installing and rebooting, open a terminal emulator and type su hit enter then type font_changer and choose option 1 to download one of the fonts provided.
 </div>
@@ -23,10 +29,6 @@
 
 ## Bootloops
 If for whatever reason you bootloop and you dont have twrp, just wait 60 seconds in the bootloop and the module will automagically be disabled and your device will reboot automatically and then boot up just fine.
-
-<div align="center">
-<strong> YOU DO NOT HAVE PERMISSION TO USE, MODIFY OR DISTRIBUTE THIS CODE IN ANY WAY
-</div>
 
 ## Using The Custom Option
  * CURRENTLY BROKEN
