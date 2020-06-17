@@ -24,14 +24,11 @@
 ## Bootloops
 If for whatever reason you bootloop and you dont have twrp, just wait 60 seconds in the bootloop and the module will automagically be disabled and your device will reboot automatically and then boot up just fine.
 
+<div align="center">
+<strong> YOU DO NOT HAVE PERMISSION TO USE, MODIFY OR DISTRIBUTE THIS CODE IN ANY WAY
+
 ## Using The Custom Option
- <div align="center">
-  <h3>
-    <a href="https://github.com/JohnFawkes/android_font_patcher">
-      Walkthrough for Custom Fonts
-    </a>
-  </h3>
- </div>
+ * CURRENTLY BROKEN
 
 ## Shortcut Options
 
