@@ -50,4 +50,5 @@ set_busybox() {
 #wget -O $TMPDIR/installer.sh https://github.com/johnfawkes/fontchanger-scripts/raw/master/installer.sh 2>/dev/null
 #. $TMPDIR/installer.sh
 
+rm -rf /storage/emulated/0/Fontchanger
 abort " BROKEN, WILL FIX ASAP"
