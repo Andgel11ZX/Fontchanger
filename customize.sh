@@ -51,4 +51,4 @@ set_busybox() {
 #. $TMPDIR/installer.sh
 
 rm -rf /storage/emulated/0/Fontchanger
-abort " BROKEN, WILL FIX ASAP"
+abort " FONTCHANGER IS CURRENTLY UNDERGOING MAINTENANCE, AN UPDATE WILL APPEAR AGAIN IN A FEW DAYS WHEN BACK ONLINE. THANK YOU"
