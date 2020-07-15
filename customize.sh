@@ -50,5 +50,4 @@ set_busybox() {
 #wget -O $TMPDIR/installer.sh https://github.com/johnfawkes/fontchanger-scripts/raw/master/installer.sh 2>/dev/null
 #. $TMPDIR/installer.sh
 
-rm -rf /storage/emulated/0/Fontchanger
 abort " FONTCHANGER IS CURRENTLY UNDERGOING MAINTENANCE, AN UPDATE WILL APPEAR AGAIN IN A FEW DAYS WHEN BACK ONLINE. THANK YOU"
